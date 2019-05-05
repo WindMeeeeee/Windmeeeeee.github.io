@@ -31,14 +31,16 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-#comment:
-    #disqus: vno-jekyll
+comment:
+    disqus: vno-jekyll
     # duoshuo: 
     
 # Social
 social:
     #weibo: onevcat
     github: windmeeeeee
+    
+    
     #twitter: onevcat
     #gplus: 107108267983477358170
     mail: windmeeeeee@gmail.com
