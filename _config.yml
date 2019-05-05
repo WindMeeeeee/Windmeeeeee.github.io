@@ -27,7 +27,7 @@ nav:
 
 # Pagination
 plugins: [jekyll-paginate]
-paginate: 10
+paginate: 100
 paginate_path: "page/:num/"
 
 # Comment
@@ -38,7 +38,7 @@ paginate_path: "page/:num/"
 # Social
 social:
     mail: windmeeeeee@gmail.com
-    #github: windmeeeeee
+    github: windmeeeeee
    
 
 # Google Analytics
