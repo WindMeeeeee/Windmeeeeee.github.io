@@ -27,12 +27,12 @@ nav:
 
 # Pagination
 plugins: [jekyll-paginate]
-paginate: 100
+paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
-#comment:
-    #disqus: vno-jekyll
+comment:
+    disqus: vno-jekyll
     # duoshuo: 
     
 # Social
