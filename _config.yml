@@ -37,11 +37,11 @@ comment:
     
 # Social
 social:
-    #mail: windmeeeeee@gmail.com
+    mail: windmeeeeee@gmail.com
     github: windmeeeeee
    
 
 # Google Analytics
-ga:
+#ga:
     # id: your_ga_id
     # host: your_host
