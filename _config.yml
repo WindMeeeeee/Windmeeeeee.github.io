@@ -31,6 +31,7 @@ paginate: 10
 paginate_path: "page/:num/"
 
 # Comment
+#RSS can't delete
 comment:
     disqus: vno-jekyll
     # duoshuo: 
